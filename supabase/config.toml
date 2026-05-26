@@ -1,4 +1,4 @@
-project_id = "gusgtwrcifeslgvhcofu"
+project_id = "jrhmuirvkoqgnsobnqey"
 
 [functions.disparar-campanhas-cron]
 verify_jwt = false
